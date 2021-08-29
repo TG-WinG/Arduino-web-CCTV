@@ -17,7 +17,7 @@ __+ 아두이노를 이용한 현관 출입자 감시 장치__
 2. 포트 포워딩 설정(포트번호: 80) 
 
 
-ex) MyCCTV.iptime.org/capture  : 사진 모드
+ex) MyCCTV.iptime.org/capture  : 사진 모드  
     MyCCTV.iptime.org/stream   : 영상 모드
 
 _- 18 박선홍_ <br />
